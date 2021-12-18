@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabsMermaid0426&label=Profile%20views&color=0e75b6&style=flat" alt="GabsMermaid" /> </p>
 
-
 - 😄 Pronouns: She/Her 🧜🏻‍♀️
 - 🔭 I’m currently working on ORM's
 - 🌱 I’m currently learning MySQL, SQLAlquemy
