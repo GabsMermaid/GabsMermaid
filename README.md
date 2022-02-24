@@ -5,12 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabsMermaid0426&label=Profile%20views&color=0e75b6&style=flat" alt="GabsMermaid" /> </p>
 
 - 😄 Pronouns: She/Her 🧜🏻‍♀️
-- 🔭 I’m currently working on ORM's
-- 🌱 I’m currently learning MySQL, SQLAlquemy
+- 🔭 I’m currently working on my Protfolo Project for Holberton School
 - 👯 I’m looking to collaborate on interesting and creative projects!
 - 💬 Ask me about: Whatever I can help with!
 - 📫 How to reach me: LinkedIn & Twitter
-- ⚡ Fun fact: Roadtrips are a must whenever there's free time
+- ⚡ Fun fact: Roadtrips are a must whenever there's free time!
 
 
 <h3 align="left">Connect with me:</h3>
