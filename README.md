@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my Protfolo Project for Holberton School
 - 👯 I’m looking to collaborate on interesting and creative projects!
 - 💬 Ask me about: Whatever I can help with!
-- 📫 How to reach me: LinkedIn & Twitter [[RESUME]](Resume - Gabriela Martínez.pdf)
+- 📫 How to reach me: LinkedIn & Twitter [[Resume]](Resume - Gabriela Martínez.pdf)
 - ⚡ Fun fact: Roadtrips are a must whenever there's free time!
 
 
