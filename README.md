@@ -10,7 +10,7 @@
 <p align="left">
   <ul>
     <li> 😄 Pronouns: She/Her 🧜🏻‍</li>
-    <li> 🔭 I’m currently working on my Protfolo Project for Holberton School</li>
+    <li> 🔭 I’m currently working on my Protfolio Project for Holberton School</li>
     <li> 👯 I’m looking to collaborate on interesting and creative projects!</li>
     <li> ⚡ I speak 2 languages (Spanish & English)</li>
     <li> 📫 How to reach me: LinkedIn & Twitter</li>
