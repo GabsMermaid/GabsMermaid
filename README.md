@@ -1,8 +1,9 @@
-<h1 align="center">Hello! 👋 I'm Gabriela Martínez</h1>
+<h1 align="center">¡Hola! 👋 I'm Gabriela Martínez</h1>
 <h3 align="center">An aspiring Software Engineer from Puerto Rico 🇵🇷</h3>
 <h3 align="center"><a href="https://github.com/GabsMermaid/GabsMermaid/blob/main/Resume%20-%20Gabriela%20Marti%CC%81nez.pdf">[Resume]</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabsMermaid0426&label=Profile%20views&color=0e75b6&style=flat" alt="GabsMermaid" /> </p>
+<img align="right" alt="GIF" src="https://github.com/GabsMermaid/GabsMermaid/blob/main/Women%20in%20STEM.gif" width="400" height="400" />
 
 
 
@@ -44,8 +45,20 @@
 ---
 
 
-<h3 align="left">Statistics:</h3>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsMermaid&layout=compact&theme=radical)](https://github.com/GabsMartinez/github-readme-stats)</a>
+  <img align="left" alt="Gabriela's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GabsMermaid&show_icons=true&hide_border=true" />
+ 
+ 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabsMermaid&theme=tokyonight" />
 
-<a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsMermaid&show_icons=true&theme=radical)</a>
+</details>
+
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Gabriela's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsMermaid&layout=compact&theme=radical)" />
+
+</details>
